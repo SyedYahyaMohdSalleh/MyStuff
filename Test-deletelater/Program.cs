@@ -10,6 +10,8 @@ namespace Test_deletelater
     {
         static void Main(string[] args)
         {
+
+            // This is a comment
         }
     }
 }
