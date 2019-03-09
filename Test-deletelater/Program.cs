@@ -13,6 +13,7 @@ namespace Test_deletelater
 
             // This is a comment
             Console.WriteLine("Hello GitHub!");
+            Console.ReadLine();
         }
     }
 }
